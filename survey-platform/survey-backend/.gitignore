@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Coverage output
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Render deploy logs
+render.yaml
