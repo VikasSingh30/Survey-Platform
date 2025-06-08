@@ -2,3 +2,4 @@ PORT=3001
 MONGO_URI=mongodb+srv://singhvikassv30:4GvKR5VGj1ztKJBo@cluster0.bcqnlqj.mongodb.net/survey_db?retryWrites=true&w=majority&appName=Cluster0
 JWT_EXPIRES_IN=24h
 BCRYPT_ROUNDS=12
+JWT_SECRET=your_super_secret_key_here
